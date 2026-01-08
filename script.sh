@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #configure for telegram update
-BOT_TOKEN="7744603926:AAGGHhSnQecXwV1DVns51cayQ4yH5VbJfjk"
-CHAT_ID="1185036453"
+BOT_TOKEN="77******26:AAGGHhS@@@@@@@@DVns51&&&Q4yH5V#####"
+CHAT_ID="11%%%%%%53"
 
 #Setting values for varaibles
 #$( )--> command substitution: passing the o/p of the command as value for variable
