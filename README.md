@@ -1,6 +1,6 @@
 # Mini Project
 
-Objective: To write a cronjob to send the status report of Node's health [ CPU usage, memory usage and disk usage ] via telegram bot daily @12:15 AM
+Objective: To write a cronjob to send the status report of Node's health [ CPU usage, memory usage and disk usage ] via telegram bot every sunday @12:15 AM
 
 Entry in crontab:
    
